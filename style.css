@@ -15,6 +15,7 @@ body
 .cardyy:hover
 {
     background: chocolate;
+    height: 300px;
     border: solid black 2px;
     transition:0.5s ease-in-out ;
     box-shadow: 0.5px 202px rgba(0,0,0,0.5);
@@ -27,7 +28,6 @@ body
     position: relative;
     width: 260px;
     height: 300px;
-    top: -30px;
     left: 20px;
     z-index: 1;
     box-shadow: 0 5px 20px rgba(0,0,0,0.5);
